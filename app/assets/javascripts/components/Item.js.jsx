@@ -1,6 +1,4 @@
-
-
-var Item = React.createClass({
+ var Item = React.createClass({
 
   propTypes: {
     item: React.PropTypes.object.isRequired,
@@ -18,10 +16,7 @@ var Item = React.createClass({
 
   playSound: function(){
     var sound = React.findDOMNode(this.refs.sound)
-    console.log(sound)
-    sound.load();
     sound.play();
-    console.log("Yo yo");
   },
   render: function(){
 
