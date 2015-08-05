@@ -22,6 +22,7 @@ var App = React.createClass({
    render: function(){
     return(
       <div>
+      <p className="title">CLICK A TILE</p>
         <List />
       </div>
       )

@@ -21,9 +21,18 @@
     overflow: hidden;
  }
 
-
+ .title{
+    font-size: 250%;
+    color: #ADFF2F;
+    border-style: solid;
+    border-width: 5px;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+ }
 
  body{
+  font-family: Arial;
   background-size: 100%;
   background-repeat: no-repeat;
   background-image: url("/assets/background2.jpg");
