@@ -23568,3 +23568,414 @@ Started GET "/assets/OH00.mp3" for 127.0.0.1 at 2015-08-04 20:33:44 -0700
 
 
 Started GET "/assets/CY0000.mp3" for 127.0.0.1 at 2015-08-04 20:33:45 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-04 22:38:48 -0700
+Processing by LaunchpadsController#show as HTML
+  Rendered launchpads/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 514ms (Views: 513.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/launchpad.css?body=1" for 127.0.0.1 at 2015-08-04 22:38:49 -0700
+
+
+Started GET "/assets/components/Item.js?body=1" for 127.0.0.1 at 2015-08-04 22:38:49 -0700
+
+
+Started GET "/assets/development/react.js?body=1" for 127.0.0.1 at 2015-08-04 22:38:49 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-04 22:38:49 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-04 22:38:49 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-04 22:38:49 -0700
+
+
+Started GET "/assets/react_ujs.js?body=1" for 127.0.0.1 at 2015-08-04 22:38:49 -0700
+
+
+Started GET "/assets/components/List.js?body=1" for 127.0.0.1 at 2015-08-04 22:38:49 -0700
+
+
+Started GET "/assets/launchpad.js?body=1" for 127.0.0.1 at 2015-08-04 22:38:49 -0700
+
+
+Started GET "/assets/sounds.js?body=1" for 127.0.0.1 at 2015-08-04 22:38:49 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-04 22:38:49 -0700
+
+
+Started GET "/assets/CY0000.mp3" for 127.0.0.1 at 2015-08-04 22:38:49 -0700
+
+
+Started GET "/assets/CL.mp3" for 127.0.0.1 at 2015-08-04 22:38:49 -0700
+
+
+Started GET "/assets/CY0010.mp3" for 127.0.0.1 at 2015-08-04 22:38:49 -0700
+
+
+Started GET "/assets/OH00.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/OH10.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/CH.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/OH25.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/RS.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/SD0010.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/SD0025.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/SD0050.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/MA.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/CY0000.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/CL.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/CY0010.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/OH00.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/OH10.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/SD0025.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/RS.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/CY0000.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/OH00.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/SD0010.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/CY0010.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/RS.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/MA.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/CH.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/CY0000.mp3" for 127.0.0.1 at 2015-08-04 22:38:50 -0700
+
+
+Started GET "/assets/CY0000.mp3" for 127.0.0.1 at 2015-08-04 22:38:51 -0700
+
+
+Started GET "/assets/CY0000.mp3" for 127.0.0.1 at 2015-08-04 22:38:51 -0700
+
+
+Started GET "/assets/CL.mp3" for 127.0.0.1 at 2015-08-04 22:38:51 -0700
+
+
+Started GET "/assets/CL.mp3" for 127.0.0.1 at 2015-08-04 22:38:51 -0700
+
+
+Started GET "/assets/OH00.mp3" for 127.0.0.1 at 2015-08-04 22:38:51 -0700
+
+
+Started GET "/assets/CY0010.mp3" for 127.0.0.1 at 2015-08-04 22:38:52 -0700
+
+
+Started GET "/assets/CY0010.mp3" for 127.0.0.1 at 2015-08-04 22:38:52 -0700
+
+
+Started GET "/assets/SD0010.mp3" for 127.0.0.1 at 2015-08-04 22:38:53 -0700
+
+
+Started GET "/assets/SD0025.mp3" for 127.0.0.1 at 2015-08-04 22:38:53 -0700
+
+
+Started GET "/assets/SD0025.mp3" for 127.0.0.1 at 2015-08-04 22:38:54 -0700
+
+
+Started GET "/assets/SD0025.mp3" for 127.0.0.1 at 2015-08-04 22:38:54 -0700
+
+
+Started GET "/assets/SD0025.mp3" for 127.0.0.1 at 2015-08-04 22:38:54 -0700
+
+
+Started GET "/assets/SD0010.mp3" for 127.0.0.1 at 2015-08-04 22:38:54 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+Processing by LaunchpadsController#show as HTML
+  Rendered launchpads/show.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 149ms (Views: 148.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/launchpad.css?body=1" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/components/Item.js?body=1" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/development/react.js?body=1" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/react_ujs.js?body=1" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/components/List.js?body=1" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/sounds.js?body=1" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/launchpad.js?body=1" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/CY0000.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/CH.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/CL.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/CY0010.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/OH00.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/OH10.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/OH25.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/SD0010.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/SD0025.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/MA.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/RS.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/CY0000.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/SD0050.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/CL.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/CY0010.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/OH00.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/OH10.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/RS.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/SD0010.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/SD0025.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/CY0000.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/OH00.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/RS.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/MA.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/assets/CY0010.mp3" for 127.0.0.1 at 2015-08-04 22:41:21 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-08-04 22:42:55 -0700
+Processing by LaunchpadsController#show as HTML
+  Rendered launchpads/show.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 172ms (Views: 171.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/launchpad.css?body=1" for 127.0.0.1 at 2015-08-04 22:42:55 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-08-04 22:42:55 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-08-04 22:42:55 -0700
+
+
+Started GET "/assets/development/react.js?body=1" for 127.0.0.1 at 2015-08-04 22:42:55 -0700
+
+
+Started GET "/assets/launchpad.js?body=1" for 127.0.0.1 at 2015-08-04 22:42:55 -0700
+
+
+Started GET "/assets/react_ujs.js?body=1" for 127.0.0.1 at 2015-08-04 22:42:55 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-08-04 22:42:55 -0700
+
+
+Started GET "/assets/components/List.js?body=1" for 127.0.0.1 at 2015-08-04 22:42:55 -0700
+
+
+Started GET "/assets/components/Item.js?body=1" for 127.0.0.1 at 2015-08-04 22:42:55 -0700
+
+
+Started GET "/assets/sounds.js?body=1" for 127.0.0.1 at 2015-08-04 22:42:55 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-08-04 22:42:55 -0700
+
+
+Started GET "/assets/CH.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/OH00.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/CY0010.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/CL.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/OH25.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/CY0000.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/SD0010.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/RS.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/OH10.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/SD0025.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/SD0050.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/MA.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/CL.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/CY0010.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/OH10.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/OH00.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/SD0010.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/RS.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/CY0000.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/SD0025.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/CY0010.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/OH00.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/MA.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/CY0000.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/RS.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/CH.mp3" for 127.0.0.1 at 2015-08-04 22:42:56 -0700
+
+
+Started GET "/assets/CY0000.mp3" for 127.0.0.1 at 2015-08-04 22:42:57 -0700
+
+
+Started GET "/assets/CY0000.mp3" for 127.0.0.1 at 2015-08-04 22:42:57 -0700
+
+
+Started GET "/assets/CL.mp3" for 127.0.0.1 at 2015-08-04 22:42:57 -0700
+
+
+Started GET "/assets/CL.mp3" for 127.0.0.1 at 2015-08-04 22:42:57 -0700
+
+
+Started GET "/assets/CY0010.mp3" for 127.0.0.1 at 2015-08-04 22:42:57 -0700
+
+
+Started GET "/assets/OH00.mp3" for 127.0.0.1 at 2015-08-04 22:42:58 -0700
+
+
+Started GET "/assets/OH00.mp3" for 127.0.0.1 at 2015-08-04 22:42:58 -0700
