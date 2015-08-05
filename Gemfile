@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-
+gem 'pg'
 gem 'rails', '4.1.6'
 gem 'react-rails' , '~> 1.0'
 gem 'sass-rails', '~> 4.0.3'
@@ -14,6 +14,7 @@ group :development, :test do
   gem 'pry-byebug'
   gem 'rspec-rails'
 end
+
 
 
 
