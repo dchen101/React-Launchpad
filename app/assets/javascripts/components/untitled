@@ -1,0 +1,49 @@
+          <li className="color_me" key="q" onMouseDown={this.handleClick.bind(null, "q")} onMouseUp={this.unhandleClick} style={style}>q</li>
+          <li className="color_me" key="w" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>w</li>
+          <li className="color_me" key="e" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>e</li>
+          <li className="color_me" key="r" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>r</li>
+          <li className="color_me" key="t" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>t</li>
+          <li className="color_me" key="y" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>y</li>
+          <li className="color_me" key="u" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>u</li>
+          <li className="color_me" key="i" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>i</li>
+          <li className="color_me" key="o" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>o</li>
+          <li className="color_me" key="p" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>p</li>
+          <li className="color_me" key="a" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>a</li>
+          <li className="color_me" key="s" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>s</li>
+          <li className="color_me" key="d" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>d</li>
+          <li className="color_me" key="f" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>f</li>
+          <li className="color_me" key="g" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>g</li>
+          <li className="color_me" key="h" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>h</li>
+          <li className="color_me" key="j" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>j</li>
+          <li className="color_me" key="k" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>k</li>
+          <li className="color_me" key="l" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>l</li>
+          <li className="color_me" key="z" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>z</li>
+          <li className="color_me" key="x" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>x</li>
+          <li className="color_me" key="c" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>c</li>
+          <li className="color_me" key="v" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>v</li>
+          <li className="color_me" key="b" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>b</li>
+          <li className="color_me" key="n" onMouseDown={this.handleClick} onMouseUp={this.unhandleClick} style={style}>n</li>
+
+                   //  <script>
+          //     var bleep = new Audio();
+          //     bleep.src = "/assets/CL.mp3";
+          // </script>
+
+            // <td><audio src="path/to/sample.wav"></audio></td>
+
+  // $('audio')[0].play();
+
+      //   console.log("yo yo");
+      // $('audio')[0].play()
+      // console.log(this.props.item)
+
+        <h1>Launchpad</h1>
+          <audio id="myTune">
+            <source src=<%=asset_path("CL.mp3").inspect%> />
+          </audio>
+          <button onClick={ $('audio')[0].play() }>Play Music</button>
+
+                    // <audio id="demo" src="/assets/CL.mp3"></audio>
+          // <div>
+            //{document.getElementById('demo').play()}
+            //</ div>
